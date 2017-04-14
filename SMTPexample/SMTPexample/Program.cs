@@ -17,6 +17,7 @@ namespace SMTPexample
             Console.ReadKey();
         }
 
+        //# SMTP C#
         static void SMTPMessage()
         {
 
